@@ -65,6 +65,7 @@ img {
   border-color: hsl(180, 62%, 55%);
   border-radius: 5px;
   box-shadow: 3px 5px 10px #f1f3f8;
+  width: 100%;
   }
 
 .team-builder {
@@ -75,6 +76,7 @@ img {
   border-radius: 5px;
   box-shadow: 3px 5px 10px #f1f3f8;
   margin-bottom: 20px;
+  width: 100%;
 }
 
 .karma {
@@ -84,6 +86,7 @@ img {
   border-color: hsl(34, 97%, 64%);
   border-radius: 5px;
   box-shadow: 3px 5px 10px #f1f3f8;
+  width: 100%;
 }
 
 .calculator {
@@ -93,4 +96,5 @@ img {
   border-color: hsl(212, 86%, 64%);
   border-radius: 5px;
   box-shadow: 3px 5px 10px #f1f3f8;
+  width: 100%;
 }
